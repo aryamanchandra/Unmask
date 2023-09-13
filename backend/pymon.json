@@ -1,0 +1,7 @@
+{
+    "app": {
+      "command": "flask run -h 192.168.45.11",
+      "watch": ["app.py"]
+    }
+  }
+  
